@@ -1,0 +1,54 @@
+# Arquivos de compilação
+bin/
+obj/
+
+# Arquivos de configuração
+*.suo
+*.user
+*.suo
+*.user
+*.sln.docstates
+
+# Diretório de dependências
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# .NET Scaffolding
+ScaffoldingReadMe.txt
+
+# Diretório de resultados de teste
+TestResults/
+
+# Diretório de publicação
+publish/
+
+# Visual Studio Code
+.vscode/
+
+# Rider
+.idea/
+
+# Arquivos temporários
+*.bak
+*.swp
+*~.nupkg
+*.nupkg.part
+
+# Arquivos de log
+*.log
+*.logs/
+
+# Pacotes
+*.nupkg
+packages/
+*.lock.json
+
+# Diretório do usuário para a documentação do Swagger
+docs/
+
+# Diretório de saída da documentação do Swagger gerada
+swagger/
+
+# Arquivo de configuração de ambiente local
+launchSettings.json
